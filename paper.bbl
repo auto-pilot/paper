@@ -1,0 +1,177 @@
+\begin{thebibliography}{27}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Casser et~al.(2019)Casser, Pirk, Mahjourian, and
+  Angelova]{casser2019depth}
+Vincent Casser, Soeren Pirk, Reza Mahjourian, and Anelia Angelova.
+\newblock Depth prediction without the sensors: Leveraging structure for
+  unsupervised learning from monocular videos.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~33, pages 8001--8008, 2019.
+
+\bibitem[Cass(2019)]{cass2019taking}
+Stephen Cass.
+\newblock Taking ai to the edge: Google's tpu now comes in a maker-friendly
+  package.
+\newblock \emph{IEEE Spectrum}, 56\penalty0 (5):\penalty0 16--17, 2019.
+
+\bibitem[Caruana and Niculescu-Mizil(2006)]{caruana2006empirical}
+Rich Caruana and Alexandru Niculescu-Mizil.
+\newblock An empirical comparison of supervised learning algorithms.
+\newblock In \emph{Proceedings of the 23rd international conference on Machine
+  learning}, pages 161--168, 2006.
+
+\bibitem[Zhu and Goldberg(2009)]{zhu2009introduction}
+Xiaojin Zhu and Andrew~B Goldberg.
+\newblock Introduction to semi-supervised learning.
+\newblock \emph{Synthesis lectures on artificial intelligence and machine
+  learning}, 3\penalty0 (1):\penalty0 1--130, 2009.
+
+\bibitem[Alpaydin(2020)]{alpaydin2020introduction}
+Ethem Alpaydin.
+\newblock \emph{Introduction to machine learning}.
+\newblock MIT press, 2020.
+
+\bibitem[Schalkoff(2007)]{schalkoff2007pattern}
+Robert~J Schalkoff.
+\newblock Pattern recognition.
+\newblock \emph{Wiley Encyclopedia of Computer Science and Engineering}, 2007.
+
+\bibitem[Albawi et~al.(2017)Albawi, Mohammed, and
+  Al-Zawi]{albawi2017understanding}
+Saad Albawi, Tareq~Abed Mohammed, and Saad Al-Zawi.
+\newblock Understanding of a convolutional neural network.
+\newblock In \emph{2017 International Conference on Engineering and Technology
+  (ICET)}, pages 1--6. Ieee, 2017.
+
+\bibitem[O’Donovan(2005)]{o2005optical}
+Peter O’Donovan.
+\newblock Optical flow: Techniques and applications.
+\newblock \emph{International Journal of Computer Vision}, pages 1--26, 2005.
+
+\bibitem[Beauchemin and Barron(1995)]{beauchemin1995computation}
+Steven~S. Beauchemin and John~L. Barron.
+\newblock The computation of optical flow.
+\newblock \emph{ACM computing surveys (CSUR)}, 27\penalty0 (3):\penalty0
+  433--466, 1995.
+
+\bibitem[Barron and Thacker(2005)]{barron2005tutorial}
+John~L Barron and Neil~A Thacker.
+\newblock Tutorial: Computing 2d and 3d optical flow.
+\newblock \emph{Imaging science and biomedical engineering division, medical
+  school, university of manchester}, 1, 2005.
+
+\bibitem[Saravanan(2010)]{saravanan2010color}
+C~Saravanan.
+\newblock Color image to grayscale image conversion.
+\newblock In \emph{2010 Second International Conference on Computer Engineering
+  and Applications}, volume~2, pages 196--199. IEEE, 2010.
+
+\bibitem[Xu et~al.(2017)Xu, Baojie, and Guoxin]{xu2017canny}
+Zhao Xu, Xu~Baojie, and Wu~Guoxin.
+\newblock Canny edge detection based on open cv.
+\newblock In \emph{2017 13th IEEE international conference on electronic
+  measurement \& instruments (ICEMI)}, pages 53--56. IEEE, 2017.
+
+\bibitem[Edwards(1984)]{edwards1984introduction}
+Allen~L Edwards.
+\newblock An introduction to linear regression and correlation.
+\newblock Technical report, 1984.
+
+\bibitem[Montgomery et~al.(2021)Montgomery, Peck, and
+  Vining]{montgomery2021introduction}
+Douglas~C Montgomery, Elizabeth~A Peck, and G~Geoffrey Vining.
+\newblock \emph{Introduction to linear regression analysis}.
+\newblock John Wiley \& Sons, 2021.
+
+\bibitem[Bergstra et~al.(2011)Bergstra, Bardenet, Bengio, and
+  K{\'e}gl]{bergstra2011algorithms}
+James Bergstra, R{\'e}mi Bardenet, Yoshua Bengio, and Bal{\'a}zs K{\'e}gl.
+\newblock Algorithms for hyper-parameter optimization.
+\newblock In \emph{25th annual conference on neural information processing
+  systems (NIPS 2011)}, volume~24. Neural Information Processing Systems
+  Foundation, 2011.
+
+\bibitem[Feurer and Hutter(2019)]{feurer2019hyperparameter}
+Matthias Feurer and Frank Hutter.
+\newblock Hyperparameter optimization.
+\newblock In \emph{Automated Machine Learning}, pages 3--33. Springer, Cham,
+  2019.
+
+\bibitem[Miko{\l}ajczyk and Grochowski(2018)]{mikolajczyk2018data}
+Agnieszka Miko{\l}ajczyk and Micha{\l} Grochowski.
+\newblock Data augmentation for improving deep learning in image classification
+  problem.
+\newblock In \emph{2018 international interdisciplinary PhD workshop (IIPhDW)},
+  pages 117--122. IEEE, 2018.
+
+\bibitem[Srivastava et~al.(2014)Srivastava, Hinton, Krizhevsky, Sutskever, and
+  Salakhutdinov]{srivastava2014dropout}
+Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan
+  Salakhutdinov.
+\newblock Dropout: a simple way to prevent neural networks from overfitting.
+\newblock \emph{The journal of machine learning research}, 15\penalty0
+  (1):\penalty0 1929--1958, 2014.
+
+\bibitem[Ciliberto et~al.(2016)Ciliberto, Rosasco, and
+  Rudi]{ciliberto2016consistent}
+Carlo Ciliberto, Lorenzo Rosasco, and Alessandro Rudi.
+\newblock A consistent regularization approach for structured prediction.
+\newblock \emph{Advances in neural information processing systems},
+  29:\penalty0 4412--4420, 2016.
+
+\bibitem[Hawkins(2004)]{hawkins2004problem}
+Douglas~M Hawkins.
+\newblock The problem of overfitting.
+\newblock \emph{Journal of chemical information and computer sciences},
+  44\penalty0 (1):\penalty0 1--12, 2004.
+
+\bibitem[Takahashi et~al.(2019)Takahashi, Matsubara, and
+  Uehara]{takahashi2019data}
+Ryo Takahashi, Takashi Matsubara, and Kuniaki Uehara.
+\newblock Data augmentation using random image cropping and patching for deep
+  cnns.
+\newblock \emph{IEEE Transactions on Circuits and Systems for Video
+  Technology}, 30\penalty0 (9):\penalty0 2917--2931, 2019.
+
+\bibitem[Souhila and Karim(2007)]{souhila2007optical}
+Kahlouche Souhila and Achour Karim.
+\newblock Optical flow based robot obstacle avoidance.
+\newblock \emph{International Journal of Advanced Robotic Systems}, 4\penalty0
+  (1):\penalty0 2, 2007.
+
+\bibitem[Fleet and Weiss(2006)]{fleet2006optical}
+David Fleet and Yair Weiss.
+\newblock Optical flow estimation.
+\newblock In \emph{Handbook of mathematical models in computer vision}, pages
+  237--257. Springer, 2006.
+
+\bibitem[Viswanathan(2009)]{viswanathan2009features}
+Deepak~Geetha Viswanathan.
+\newblock Features from accelerated segment test (fast).
+\newblock In \emph{Proceedings of the 10th workshop on Image Analysis for
+  Multimedia Interactive Services, London, UK}, pages 6--8, 2009.
+
+\bibitem[Lucas et~al.(1981)Lucas, Kanade, et~al.]{lucas1981iterative}
+Bruce~D Lucas, Takeo Kanade, et~al.
+\newblock An iterative image registration technique with an application to
+  stereo vision.
+\newblock Vancouver, British Columbia, 1981.
+
+\bibitem[Levenberg(1944)]{levenberg1944method}
+Kenneth Levenberg.
+\newblock A method for the solution of certain non-linear problems in least
+  squares.
+\newblock \emph{Quarterly of applied mathematics}, 2\penalty0 (2):\penalty0
+  164--168, 1944.
+
+\bibitem[Gander(1980)]{gander1980algorithms}
+Walter Gander.
+\newblock Algorithms for the qr decomposition.
+\newblock \emph{Res. Rep}, 80\penalty0 (02):\penalty0 1251--1268, 1980.
+
+\end{thebibliography}
